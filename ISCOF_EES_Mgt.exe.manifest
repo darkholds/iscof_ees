@@ -67,14 +67,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ISCOF_EES_Mgt.exe" size="539576">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ISCOF_EES_Mgt.exe" size="541112">
       <assemblyIdentity name="ISCOF_EES_Mgt" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mYqnicFGj16Cz7aCROvgMjRlseyKfmQP8wZyGfOXUBA=</dsig:DigestValue>
+        <dsig:DigestValue>4CbnD94OPMtMggnFgYrZiCVc9xwaoFXn/k6dVTWUYXY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
