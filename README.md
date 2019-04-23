@@ -3,6 +3,7 @@
 Updates: 23/4/2019b
 
 - changed admission gpa and interview entry method
+- fixed bug that admission search by last name doesn't work as intended
 
 Updates: 23/4/2019
 
